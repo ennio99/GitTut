@@ -1,2 +1,2 @@
 test
-fav col blue
+fav col green
